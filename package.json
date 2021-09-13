@@ -1,0 +1,14 @@
+{
+  "name": "infosimples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "nodemon": "^2.0.12",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "start": "nodemon ./home.js "
+  }
+}
